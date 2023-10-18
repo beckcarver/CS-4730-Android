@@ -1,0 +1,9 @@
+[submodule "Program1"]
+	path = Program1
+	url = https://github.com/Cosc4730fa23/mp_program1-beckcarver
+[submodule "Program2"]
+	path = Program2
+	url = https://github.com/Cosc4730fa23/mp_program2-beckcarver
+[submodule "Program3"]
+	path = Program3
+	url = https://github.com/Cosc4730fa23/mp_program3-beckcarver
