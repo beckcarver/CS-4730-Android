@@ -7,3 +7,6 @@
 [submodule "Program3"]
 	path = Program3
 	url = https://github.com/Cosc4730fa23/mp_program3-beckcarver
+[submodule "Program4"]
+	path = Program4
+	url = https://github.com/Cosc4730fa23/mp_program4-beckcarver
