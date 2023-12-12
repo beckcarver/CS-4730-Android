@@ -13,3 +13,6 @@
 [submodule "Program5"]
 	path = Program5
 	url = https://github.com/Cosc4730fa23/mp_program5-beckcarver
+[submodule "Program6"]
+	path = Program6
+	url = https://github.com/Cosc4730fa23/mp_program6-beckcarver.git
